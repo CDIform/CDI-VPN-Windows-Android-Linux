@@ -1,0 +1,7 @@
+{
+  "MainRelay": "MyServer",
+  "Servers": {
+    "MyServer": "193.168.1.1:9001:my-super-secret-vpn-key-32bytes!",
+    "MyServer2": "193.168.1.1.86:99114:my-super-secret-vpn-key-32bytes!"
+  }
+}
